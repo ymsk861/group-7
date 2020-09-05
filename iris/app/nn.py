@@ -19,3 +19,5 @@ joblib.dump(model, "nn.pkl", compress=True)
 # 予測精度
 print("result: ", model.score(x_test, y_test))
 print(classification_report(y_test, pred))
+
+##assdoafjoajn
